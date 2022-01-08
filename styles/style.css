@@ -1,4 +1,18 @@
 header {
   background: lightblue;
+  margin: 0;
+  color: black;
+}
+
+header button {
+  background: #41adad;
+}
+
+header button:hover {
+  background: #83d1d1;
+}
+
+body {
+  margin: 0;
 }
 /*# sourceMappingURL=style.css.map */
